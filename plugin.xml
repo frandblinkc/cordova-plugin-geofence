@@ -47,7 +47,7 @@
 
         
         <lib-file src="src/android/libs/gson-2.3.jar" />
-        <lib-file src="src/android/libs/google-play-service-location.jar" />
+        <lib-file src="src/android/libs/google-play-services.jar" />
 
         <config-file target="config.xml" parent="/*">
             <feature name="GeofencePlugin">
